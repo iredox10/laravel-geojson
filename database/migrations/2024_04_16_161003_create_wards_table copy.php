@@ -13,13 +13,14 @@ return new class extends Migration
     {
         Schema::create('wards', function (Blueprint $table) {
             $table->id();
-            $table->string('cityId');
-            $table->string('wardId');
-            $table->string('wardName');
-            $table->string('wardCode');
-            $table->string('primaryHealthCares');
-            $table->string('secondaryHealthCares');
-            $table->string('teachingHospitals');
+            $table->string('cityId')->nullable();
+            $table->string('wardId')->nullable();
+            $table->string('wardName')->nullable();
+            $table->string('wardCode')->nullable();
+            $table->string('primaryHealthCares')->nullable();
+            $table->string('secondaryHealthCares')->nullable();
+            $table->string('teachingHospitals')->nullable();
+            $table->string('hospitals')->nullable();
             $table->timestamps();
         });
     }
