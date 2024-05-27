@@ -93,6 +93,9 @@ const jigawaWards = {
         ward_name: "Chukuto",
         ward_code: "JI2602",
         global_id: "0457f4d5-e9f7-4584-a309-b6b66ffaed6d",
+        ward_id: "274",
+        city_id: "30859",
+        lga_name: "Taura",
       },
     },
     {
@@ -203,6 +206,9 @@ const jigawaWards = {
         ward_name: "Karshi",
         ward_code: "JI2304",
         global_id: "04c3ef30-43d9-4cee-a320-cb1dd8b6597e",
+        ward_id: "243",
+        city_id: "30857",
+        lga_name: "Ringim",
       },
     },
     {
@@ -272,6 +278,9 @@ const jigawaWards = {
         ward_name: "Kuda",
         ward_code: "JI2707",
         global_id: "06113016-3302-43c2-a9c1-6a8310f2f8d8",
+        ward_id: "288",
+        city_id: "48322",
+        lga_name: "Yankwashi",
       },
     },
     {
@@ -518,6 +527,9 @@ const jigawaWards = {
         ward_name: "Gunka",
         ward_code: "JI1404",
         global_id: "066383ea-8db5-4b7d-8dd8-b41a50831b02",
+        ward_id: "146",
+        city_id: "30850",
+        lga_name: "Jahun",
       },
     },
     {
@@ -563,6 +575,9 @@ const jigawaWards = {
         ward_name: "Madana",
         ward_code: "JI2007",
         global_id: "078a9bda-ab14-4553-9bf4-e0e56c171de8",
+        ward_id: "213",
+        city_id: "30855",
+        lga_name: "Maigatari",
       },
     },
     {
@@ -640,6 +655,7 @@ const jigawaWards = {
         ward_name: "Lelen Kudu",
         ward_code: "JI0508",
         global_id: "07ee4317-4afb-4e64-85bd-3d07a333785e",
+        lga_name: "Buji",
       },
     },
     {
@@ -701,6 +717,7 @@ const jigawaWards = {
         ward_name: "Maigatari Kudu",
         ward_code: "JI2009",
         global_id: "08b26a4a-3dbb-4c03-b34a-ec38c6c18ae9",
+        lga_name: "Maigatari",
       },
     },
     {
@@ -767,6 +784,9 @@ const jigawaWards = {
         ward_name: "Kore",
         ward_code: "JI0808",
         global_id: "097d978b-e9b5-456c-ae68-288c89e020d1",
+        ward_id: "82",
+        city_id: "30845",
+        lga_name: "Garki",
       },
     },
     {
@@ -930,6 +950,7 @@ const jigawaWards = {
         ward_name: "Kwondiko",
         ward_code: "JI1107",
         global_id: "0ce0b946-e4d1-4d38-80be-a0984df12ca7",
+        lga_name: "Gwaram",
       },
     },
     {
@@ -1020,6 +1041,7 @@ const jigawaWards = {
         ward_name: "Jae",
         ward_code: "JI1607",
         global_id: "0d84d1da-f8c7-4b43-95a9-136b99885f99",
+        lga_name: "Kaugama",
       },
     },
     {
@@ -1086,6 +1108,8 @@ const jigawaWards = {
         ward_name: "Gusau",
         ward_code: "JI0907",
         global_id: "0da20d56-e6db-46fe-ad20-eb07fec5dde2",
+        ward_id: "303",
+        city_id: "30846",
       },
     },
     {
@@ -1328,6 +1352,9 @@ const jigawaWards = {
         ward_name: "Kiyawa",
         ward_code: "JI1907",
         global_id: "0df90131-5c75-4326-9e28-7dc17481f62c",
+        ward_id: "204",
+        city_id: "30854",
+        lga_name: "Kiyawa",
       },
     },
     {
@@ -1408,6 +1435,9 @@ const jigawaWards = {
         ward_name: "Kazura",
         ward_code: "JI0408",
         global_id: "0ed15c60-3bba-4540-9047-8246e7d40546",
+        ward_id: "41",
+        city_id: "48317",
+        lga_name: "Birniwa",
       },
     },
     {
@@ -1496,6 +1526,9 @@ const jigawaWards = {
         ward_name: "Kudai",
         ward_code: "JI0608",
         global_id: "0ed48014-cd5c-4615-bc1d-610d95600dd2",
+        ward_id: "63",
+        city_id: "30844",
+        lga_name: "Dutse",
       },
     },
     {
@@ -1911,6 +1944,7 @@ const jigawaWards = {
         ward_name: "Yalwan Damai",
         ward_code: "JI0311",
         global_id: "10b32cc2-c134-48cb-b75b-0348da4e5b5c",
+        lga_name: "Birnin Kudi",
       },
     },
     {
@@ -2164,6 +2198,9 @@ const jigawaWards = {
         ward_name: "Birnin Kudu",
         ward_code: "JI0301",
         global_id: "1190305f-e904-4278-b1d5-12e6096e7e3c",
+        ward_id: "23",
+        city_id: "30842",
+        lga_name: "Birnin Kudi",
       },
     },
     {
@@ -2241,6 +2278,9 @@ const jigawaWards = {
         ward_name: "Dandi",
         ward_code: "JI1704",
         global_id: "118d21ca-b33c-4030-b045-7883744a0886",
+        ward_id: "179",
+        city_id: "30852",
+        lga_name: "Kazaure",
       },
     },
     {
@@ -2331,6 +2371,9 @@ const jigawaWards = {
         ward_name: "Arbus",
         ward_code: "JI1601",
         global_id: "11f61ae2-d822-4d11-a05f-9fc3833dbd27",
+        ward_id: "165",
+        city_id: "30851",
+        lga_name: "Kaugama",
       },
     },
     {
@@ -2388,6 +2431,9 @@ const jigawaWards = {
         ward_name: "Unguwar Gabas",
         ward_code: "JI1710",
         global_id: "12b4f0f1-5d29-4918-8d89-5a5de71bf0d3",
+        ward_id: "185",
+        city_id: "30852",
+        lga_name: "Kazaure",
       },
     },
     {
@@ -2526,6 +2572,9 @@ const jigawaWards = {
         ward_name: "Abaya",
         ward_code: "JI0601",
         global_id: "155df119-1e66-44b4-9ecd-86c262828bc2",
+        ward_id: "55",
+        city_id: "30844",
+        lga_name: "Dutse",
       },
     },
     {
@@ -2610,6 +2659,9 @@ const jigawaWards = {
         ward_name: "Muku",
         ward_code: "JI0809",
         global_id: "174eada6-3a82-483b-b1e0-27190f195408",
+        ward_id: "83",
+        city_id: "30845",
+        lga_name: "Garki",
       },
     },
     {
@@ -2684,6 +2736,9 @@ const jigawaWards = {
         ward_name: "Kangire",
         ward_code: "JI0302",
         global_id: "19579ec7-db3b-435a-a3da-f1d1bae418d2",
+        ward_id: "24",
+        city_id: "30842",
+        lga_name: "Birnin Kudi",
       },
     },
     {
@@ -2750,6 +2805,9 @@ const jigawaWards = {
         ward_name: "Yayarin Tukur",
         ward_code: "JI0510",
         global_id: "1a075574-b334-4006-a06e-f2b1b5cb3131",
+        ward_id: "54",
+        city_id: "30843",
+        lga_name: "Buji",
       },
     },
     {
@@ -2829,6 +2887,9 @@ const jigawaWards = {
         ward_name: "Sayori",
         ward_code: "JI0811",
         global_id: "1a975335-d6e9-487c-b5bc-e3dd16b863d5",
+        ward_id: "85",
+        city_id: "30845",
+        lga_name: "Garki",
       },
     },
     {
@@ -2871,6 +2932,9 @@ const jigawaWards = {
         ward_name: "Rorau",
         ward_code: "JI1208",
         global_id: "1b1b72b6-2629-402e-8c7c-ecb2dfda299c",
+        ward_id: "121",
+        city_id: "30848",
+        lga_name: "Gwiwa",
       },
     },
     {
@@ -2942,6 +3006,9 @@ const jigawaWards = {
         ward_name: "Jeke",
         ward_code: "JI2506",
         global_id: "1bce6d28-4992-43ce-967a-f3b1963d1146",
+        ward_id: "267",
+        city_id: "30858",
+        lga_name: "sule tankarkar",
       },
     },
     {
@@ -3032,6 +3099,9 @@ const jigawaWards = {
         ward_name: "Kasuwar Kofa",
         ward_code: "JI1304",
         global_id: "1c81d097-0311-466a-aeb1-1d600fa267f5",
+        ward_id: "299",
+        city_id: "30849",
+        lga_name: "Hadejia",
       },
     },
     {
@@ -3150,6 +3220,9 @@ const jigawaWards = {
         ward_name: "Garbagal",
         ward_code: "JI1004",
         global_id: "1cae5b4a-c3a6-4477-8afb-bc0499f81d94",
+        ward_id: "96",
+        city_id: "48319",
+        lga_name: "Guri",
       },
     },
     {
@@ -3244,6 +3317,9 @@ const jigawaWards = {
         ward_name: "Garun Gabas",
         ward_code: "JI2104",
         global_id: "1d26f756-9b27-48d6-8097-20a0836d02bb",
+        ward_id: "221",
+        city_id: "30856",
+        lga_name: "Malam Madori",
       },
     },
     {
@@ -3296,6 +3372,9 @@ const jigawaWards = {
         ward_name: "Darina",
         ward_code: "JI1203",
         global_id: "1d40debf-4ec1-4c76-9791-6ab3b3019b97",
+        ward_id: "116",
+        city_id: "30848",
+        lga_name: "Gwiwa",
       },
     },
     {
@@ -3393,6 +3472,9 @@ const jigawaWards = {
         ward_name: "Maruta",
         ward_code: "JI1108",
         global_id: "1e19cfcb-d656-45c1-9b1d-832ffda8570f",
+        ward_id: "110",
+        city_id: "30847",
+        lga_name: "Gwaram",
       },
     },
     {
@@ -3528,6 +3610,9 @@ const jigawaWards = {
         ward_name: "Maje",
         ward_code: "JI2607",
         global_id: "203446e6-c9de-4813-86a9-4f3cf138a471",
+        ward_id: "206",
+        city_id: "30854",
+        lga_name: "Taura",
       },
     },
     {
@@ -3594,6 +3679,8 @@ const jigawaWards = {
         ward_name: "Kofar Yamma",
         ward_code: "JI0910",
         global_id: "20687a18-8ae5-40a7-93ab-e7b4856b3fc0",
+        ward_id: "304",
+        city_id: "30846",
       },
     },
     {
@@ -3796,6 +3883,9 @@ const jigawaWards = {
         ward_name: "Dingaya",
         ward_code: "JI1102",
         global_id: "2255bba7-1d65-486f-b86e-108c3d6d1b6a",
+        ward_id: "104",
+        city_id: "30847",
+        lga_name: "Gwaram",
       },
     },
     {
@@ -3840,6 +3930,9 @@ const jigawaWards = {
         ward_name: "Margadu",
         ward_code: "JI1008",
         global_id: "225a7ee5-8403-4020-956c-6fa2eb0df816",
+        ward_id: "100",
+        city_id: "48319",
+        lga_name: "Guri",
       },
     },
     {
@@ -3898,6 +3991,9 @@ const jigawaWards = {
         ward_name: "Danzomo",
         ward_code: "JI2505",
         global_id: "22f9fc67-924c-4040-b8d5-7459709ab87b",
+        ward_id: "266",
+        city_id: "30858",
+        lga_name: "sule tankarkar",
       },
     },
     {
@@ -3994,6 +4090,9 @@ const jigawaWards = {
         ward_name: "Garki",
         ward_code: "JI0803",
         global_id: "23e758fa-ce23-447f-8961-9c6c0d7b230e",
+        ward_id: "293",
+        city_id: "30845",
+        lga_name: "Garki",
       },
     },
     {
@@ -4096,6 +4195,9 @@ const jigawaWards = {
         ward_name: "Auyo",
         ward_code: "JI0102",
         global_id: "2413494b-c6bd-495f-8d06-d1ef5839e55d",
+        ward_id: "3",
+        city_id: "48316",
+        lga_name: "Auyo",
       },
     },
     {
@@ -4152,6 +4254,9 @@ const jigawaWards = {
         ward_name: "Guntai",
         ward_code: "JI1205",
         global_id: "25ab148d-041c-42ea-ab02-04e14c352bf5",
+        ward_id: "118",
+        city_id: "30848",
+        lga_name: "Gwiwa",
       },
     },
     {
@@ -4255,6 +4360,9 @@ const jigawaWards = {
         ward_name: "Madobi",
         ward_code: "JI0610",
         global_id: "26c836cb-cbc1-4396-861b-31b50e89f7a0",
+        ward_id: "62",
+        city_id: "30844",
+        lga_name: "Dutse",
       },
     },
     {
@@ -4346,6 +4454,9 @@ const jigawaWards = {
         ward_name: "Dankumbo",
         ward_code: "JI2002",
         global_id: "289bf4f4-5ebf-41ca-8dc0-d323c28bff37",
+        ward_id: "209",
+        city_id: "30855",
+        lga_name: "Maigatari",
       },
     },
     {
@@ -4406,6 +4517,9 @@ const jigawaWards = {
         ward_name: "Tsakuwawa",
         ward_code: "JI2209",
         global_id: "28b6c4d6-1c87-41fc-abcd-5856dc56a2d2",
+        ward_id: "238",
+        city_id: "48320",
+        lga_name: "Miga",
       },
     },
     {
@@ -4460,6 +4574,9 @@ const jigawaWards = {
         ward_name: "Medu",
         ward_code: "JI0708",
         global_id: "28c60f05-8aac-4ad8-90b5-ed60060e1ea0",
+        ward_id: "73",
+        city_id: "48318",
+        lga_name: "gagarawa",
       },
     },
     {
@@ -4552,6 +4669,9 @@ const jigawaWards = {
         ward_name: "Girbobo",
         ward_code: "JI1605",
         global_id: "291ffb7d-9d75-44b9-9353-e20271cddc85",
+        ward_id: "169",
+        city_id: "30851",
+        lga_name: "Kaugama",
       },
     },
     {
@@ -4637,6 +4757,7 @@ const jigawaWards = {
         ward_name: "Zago Kura",
         ward_code: "JI1511",
         global_id: "2978e9de-592d-4f1c-af43-fc6cc13c62bd",
+        lga_name: "Kafin Hausa",
       },
     },
     {
@@ -4736,6 +4857,7 @@ const jigawaWards = {
         ward_name: "Tagoro",
         ward_code: "JI2109",
         global_id: "2a7d08d9-3660-4620-a1c6-aa4c0ba8c7ea",
+        lga_name: "Malam Madori",
       },
     },
     {
@@ -4797,6 +4919,9 @@ const jigawaWards = {
         ward_name: "Kukayasku",
         ward_code: "JI2006",
         global_id: "2ada294c-f6d0-4b07-8cdf-d221cd98409e",
+        ward_id: "212",
+        city_id: "30855",
+        lga_name: "Maigatari",
       },
     },
     {
@@ -4894,6 +5019,9 @@ const jigawaWards = {
         ward_name: "Maje",
         ward_code: "JI1909",
         global_id: "2b86ed19-702f-4ea9-85e1-fd8f87e7d012",
+        ward_id: "206",
+        city_id: "30854",
+        lga_name: "Kiyawa",
       },
     },
     {
@@ -5052,6 +5180,9 @@ const jigawaWards = {
         ward_name: "Dangwanki",
         ward_code: "JI2503",
         global_id: "2c6e751b-5017-40f6-ba4e-44736c434f07",
+        ward_id: "264",
+        city_id: "30858",
+        lga_name: "sule tankarkar",
       },
     },
     {
@@ -5171,6 +5302,7 @@ const jigawaWards = {
         ward_name: "Jigawar Tsada",
         ward_code: "JI0605",
         global_id: "2c756a7a-9836-4230-a368-dc94c06b594e",
+        lga_name: "Dutse",
       },
     },
     {
@@ -5288,6 +5420,9 @@ const jigawaWards = {
         ward_name: "Duru",
         ward_code: "JI0604",
         global_id: "2d098d84-a27d-46a2-baa9-2b70afd9ee63",
+        ward_id: "58",
+        city_id: "30844",
+        lga_name: "Dutse",
       },
     },
     {
@@ -5355,6 +5490,7 @@ const jigawaWards = {
         ward_name: "Korayel",
         ward_code: "JI1207",
         global_id: "2e054f86-d712-4156-9a04-bd46a9531a94",
+        lga_name: "Gwiwa",
       },
     },
     {
@@ -5404,6 +5540,9 @@ const jigawaWards = {
         ward_name: "Gwarta",
         ward_code: "JI2705",
         global_id: "2ee45e35-b6e7-4405-84fd-0066012d19a3",
+        ward_id: "286",
+        city_id: "48322",
+        lga_name: "Yankwashi",
       },
     },
     {
@@ -5526,6 +5665,9 @@ const jigawaWards = {
         ward_name: "Tsidir",
         ward_code: "JI0109",
         global_id: "2ef5f96c-fcf6-4c38-bbe4-e392c213d1fd",
+        ward_id: "10",
+        city_id: "48316",
+        lga_name: "Auyo",
       },
     },
     {
@@ -5690,6 +5832,9 @@ const jigawaWards = {
         ward_name: "Machinamari",
         ward_code: "JI0409",
         global_id: "2f763151-4125-4b53-92d0-a113f7d70081",
+        ward_id: "42",
+        city_id: "48317",
+        lga_name: "Birniwa",
       },
     },
     {
@@ -5951,6 +6096,9 @@ const jigawaWards = {
         ward_name: "Bulangu",
         ward_code: "JI1501",
         global_id: "32071f87-3a4b-4b35-b300-e68d7fcaca8f",
+        ward_id: "154",
+        city_id: "30853",
+        lga_name: "Kafin Hausa",
       },
     },
     {
@@ -6004,6 +6152,9 @@ const jigawaWards = {
         ward_name: "Zareku",
         ward_code: "JI2211",
         global_id: "3555967a-c450-49f0-82b7-5e57b6ce008d",
+        ward_id: "240",
+        city_id: "48320",
+        lga_name: "Miga",
       },
     },
     {
@@ -6185,6 +6336,9 @@ const jigawaWards = {
         ward_name: "Jirima",
         ward_code: "JI0805",
         global_id: "32a0c063-6565-4198-af03-766fb39dba0b",
+        ward_id: "79",
+        city_id: "30845",
+        lga_name: "Garki",
       },
     },
     {
@@ -6284,6 +6438,9 @@ const jigawaWards = {
         ward_name: "Sundimina",
         ward_code: "JI0307",
         global_id: "34128e37-8b74-481f-a420-e225679024ff",
+        ward_id: "29",
+        city_id: "30842",
+        lga_name: "Birnin Kudi",
       },
     },
     {
@@ -6337,6 +6494,9 @@ const jigawaWards = {
         ward_name: "Garbo",
         ward_code: "JI2202",
         global_id: "344717e0-6d8d-4f95-aa2d-2c3d8cf9ac13",
+        ward_id: "231",
+        city_id: "48320",
+        lga_name: "Miga",
       },
     },
     {
@@ -6394,6 +6554,7 @@ const jigawaWards = {
         ward_name: "San Sani",
         ward_code: "JI2208",
         global_id: "3581396f-f1e5-4151-9d3e-17088eff21c2",
+        lga_name: "Miga",
       },
     },
     {
@@ -6454,6 +6615,9 @@ const jigawaWards = {
         ward_name: "Dabuwaran",
         ward_code: "JI1603",
         global_id: "35aa61b9-7745-4c0e-ac6c-6be28a10dead",
+        ward_id: "167",
+        city_id: "30851",
+        lga_name: "Kaugama",
       },
     },
     {
@@ -6574,6 +6738,9 @@ const jigawaWards = {
         ward_name: "Baragumi",
         ward_code: "JI2402",
         global_id: "38f4cd1b-a953-432d-b482-b23a4d95a658",
+        ward_id: "252",
+        city_id: "48321",
+        lga_name: "Roni",
       },
     },
     {
@@ -6709,6 +6876,9 @@ const jigawaWards = {
         ward_name: "Tofa",
         ward_code: "JI2309",
         global_id: "392dd77e-09f1-4ec0-b33d-c9e18f0ea678",
+        ward_id: "248",
+        city_id: "30857",
+        lga_name: "Ringim",
       },
     },
     {
@@ -6765,6 +6935,9 @@ const jigawaWards = {
         ward_name: "Turbus",
         ward_code: "JI2011",
         global_id: "3a0a18ea-c7f4-4fdd-96bd-7c6604f2f276",
+        ward_id: "218",
+        city_id: "30855",
+        lga_name: "Maigatari",
       },
     },
     {
@@ -6857,6 +7030,9 @@ const jigawaWards = {
         ward_name: "Adiyani",
         ward_code: "JI1002",
         global_id: "3a7515e1-f023-4bfa-a799-3270a94d6bc9",
+        ward_id: "94",
+        city_id: "48319",
+        lga_name: "Guri",
       },
     },
     {
@@ -7145,6 +7321,7 @@ const jigawaWards = {
         ward_name: "Lafia",
         ward_code: "JI0306",
         global_id: "3ad8345a-231e-4f09-8445-f79e7d5767f8",
+        lga_name: "Birnin Kudi",
       },
     },
     {
@@ -7218,6 +7395,7 @@ const jigawaWards = {
         ward_name: "Mairakumi",
         ward_code: "JI2105",
         global_id: "3b339b35-6dcc-425d-b047-d9e7fa2292d2",
+        lga_name: "Malam Madori",
       },
     },
     {
@@ -7312,6 +7490,9 @@ const jigawaWards = {
         ward_name: "Dundubus",
         ward_code: "JI0603",
         global_id: "3b7dd869-fa99-40f9-8bfa-6ba3dcadabc6",
+        ward_id: "57",
+        city_id: "30844",
+        lga_name: "Dutse",
       },
     },
     {
@@ -7424,6 +7605,9 @@ const jigawaWards = {
         ward_name: "Gauza",
         ward_code: "JI1403",
         global_id: "3c6652da-d65f-495c-ac87-6c74a02cf8bf",
+        ward_id: "145",
+        city_id: "30850",
+        lga_name: "Jahun",
       },
     },
     {
@@ -7488,6 +7672,9 @@ const jigawaWards = {
         ward_name: "Roni",
         ward_code: "JI2407",
         global_id: "3d67d4ec-9e0a-4c6a-b5d5-23fb52b441f5",
+        ward_id: "255",
+        city_id: "48321",
+        lga_name: "Roni",
       },
     },
     {
@@ -7615,6 +7802,9 @@ const jigawaWards = {
         ward_name: "Doko",
         ward_code: "JI0802",
         global_id: "3d84b67c-25d1-4189-b1a6-de08bea9b09e",
+        ward_id: "77",
+        city_id: "30845",
+        lga_name: "Garki",
       },
     },
     {
@@ -7679,6 +7869,9 @@ const jigawaWards = {
         ward_name: "Rafin Marke",
         ward_code: "JI0810",
         global_id: "3df35761-ba5f-4fca-ba7a-274544ce72bb",
+        ward_id: "84",
+        city_id: "30845",
+        lga_name: "Garki",
       },
     },
     {
@@ -7740,6 +7933,9 @@ const jigawaWards = {
         ward_name: "Dangwaleri",
         ward_code: "JI0403",
         global_id: "3e9b33cc-2ab5-4309-a6a9-d932e467ed29",
+        ward_id: "36",
+        city_id: "48317",
+        lga_name: "Birniwa",
       },
     },
     {
@@ -7810,6 +8006,9 @@ const jigawaWards = {
         ward_name: "Bulunchai",
         ward_code: "JI1802",
         global_id: "3e745b80-c97b-426d-b4bd-3ea1783cfaa7",
+        ward_id: "188",
+        city_id: "48315",
+        lga_name: "Kiri Kasama",
       },
     },
     {
@@ -7875,6 +8074,7 @@ const jigawaWards = {
         ward_name: "Kwazailewa",
         ward_code: "JI1506",
         global_id: "3edc65b2-b78a-40c8-abe1-78f3f1b8684a",
+        lga_name: "Kafin Hausa",
       },
     },
     {
@@ -8101,6 +8301,9 @@ const jigawaWards = {
         ward_name: "Yankoli",
         ward_code: "JI1310",
         global_id: "3f72ce58-0369-41d1-a96c-8478bbe580f2",
+        ward_id: "131",
+        city_id: "30849",
+        lga_name: "Hadejia",
       },
     },
     {
@@ -8156,6 +8359,9 @@ const jigawaWards = {
         ward_name: "Marke",
         ward_code: "JI1609",
         global_id: "3fad534e-4776-4c43-9f21-16fa25e143c1",
+        ward_id: "173",
+        city_id: "30851",
+        lga_name: "Kaugama",
       },
     },
     {
@@ -8267,6 +8473,9 @@ const jigawaWards = {
         ward_name: "Dabi",
         ward_code: "JI2302",
         global_id: "401f2735-cc2f-4048-acaa-5cc0d1f341e9",
+        ward_id: "242",
+        city_id: "30857",
+        lga_name: "Ringim",
       },
     },
     {
@@ -8463,6 +8672,9 @@ const jigawaWards = {
         ward_name: "Mezan",
         ward_code: "JI1508",
         global_id: "411785ed-1bd6-44e6-9fc2-373308279b5d",
+        ward_id: "161",
+        city_id: "30853",
+        lga_name: "Kafin Hausa",
       },
     },
     {
@@ -8533,6 +8745,9 @@ const jigawaWards = {
         ward_name: "Kaugama",
         ward_code: "JI1608",
         global_id: "4143bff8-d0c7-4b4b-bbae-56be4d861e29",
+        ward_id: "172",
+        city_id: "30851",
+        lga_name: "Kaugama",
       },
     },
     {
@@ -8601,6 +8816,7 @@ const jigawaWards = {
         ward_name: "Maigatari Arewa",
         ward_code: "JI2008",
         global_id: "4274f1c3-4557-4af4-83f8-d24c8c328d25",
+        lga_name: "Maigatari",
       },
     },
     {
@@ -8670,6 +8886,9 @@ const jigawaWards = {
         ward_name: "Yanzaki",
         ward_code: "JI2410",
         global_id: "4587eb02-aeff-47d0-a209-a52229db0a47",
+        ward_id: "257",
+        city_id: "48321",
+        lga_name: "Roni",
       },
     },
     {
@@ -8764,6 +8983,9 @@ const jigawaWards = {
         ward_name: "Makaddari",
         ward_code: "JI2107",
         global_id: "4642d5dd-aec0-46ac-83ed-70ba3699231b",
+        ward_id: "223",
+        city_id: "30856",
+        lga_name: "Malam Madori",
       },
     },
     {
@@ -8824,6 +9046,9 @@ const jigawaWards = {
         ward_name: "Jabarna",
         ward_code: "JI1408",
         global_id: "4880fcd4-665e-41b0-a759-d47bf729f18c",
+        ward_id: "148",
+        city_id: "30850",
+        lga_name: "Jahun",
       },
     },
     {
@@ -8893,6 +9118,8 @@ const jigawaWards = {
         ward_name: "Galagamma",
         ward_code: "JI0905",
         global_id: "49b30457-9412-4fbc-8073-be1a9b260169",
+        ward_id: "87",
+        city_id: "30846",
       },
     },
     {
@@ -8964,6 +9191,9 @@ const jigawaWards = {
         ward_name: "Takatsaba",
         ward_code: "JI2509",
         global_id: "4b998637-0b5b-4d78-8fb5-c362ef0ca3dd",
+        ward_id: "270",
+        city_id: "30858",
+        lga_name: "sule tankarkar",
       },
     },
     {
@@ -9020,6 +9250,9 @@ const jigawaWards = {
         ward_name: "Unguwar Yamma",
         ward_code: "JI1711",
         global_id: "4f09c1b6-d237-44dd-a6a1-74fb40a3301e",
+        ward_id: "186",
+        city_id: "30852",
+        lga_name: "Kazaure",
       },
     },
     {
@@ -9143,6 +9376,9 @@ const jigawaWards = {
         ward_name: "Sakwaya",
         ward_code: "JI0611",
         global_id: "4c31956b-ab84-4749-90d2-2d4d1566b79a",
+        ward_id: "65",
+        city_id: "30844",
+        lga_name: "Dutse",
       },
     },
     {
@@ -9204,6 +9440,9 @@ const jigawaWards = {
         ward_name: "Zarada",
         ward_code: "JI0710",
         global_id: "4d5a9836-6e21-4804-a59d-418bccaf731b",
+        ward_id: "75",
+        city_id: "48318",
+        lga_name: "gagarawa",
       },
     },
     {
@@ -9283,6 +9522,9 @@ const jigawaWards = {
         ward_name: "Gora",
         ward_code: "JI2405",
         global_id: "4ded9189-95ab-44f0-bd99-268bacddfff8",
+        ward_id: "254",
+        city_id: "48321",
+        lga_name: "Roni",
       },
     },
     {
@@ -9414,6 +9656,9 @@ const jigawaWards = {
         ward_name: "Dawa",
         ward_code: "JI1003",
         global_id: "4e1b8acc-3f22-455b-8224-619b6bfa5ad9",
+        ward_id: "95",
+        city_id: "48319",
+        lga_name: "Guri",
       },
     },
     {
@@ -9507,6 +9752,9 @@ const jigawaWards = {
         ward_name: "Buntusu",
         ward_code: "JI1201",
         global_id: "4e739f67-2411-420a-845c-ab4507398463",
+        ward_id: "114",
+        city_id: "30848",
+        lga_name: "Gwiwa",
       },
     },
     {
@@ -9597,6 +9845,9 @@ const jigawaWards = {
         ward_name: "Harbo Tsohuwa",
         ward_code: "JI1406",
         global_id: "4fc06cac-7741-4a71-941b-ab8886a90b17",
+        ward_id: "153",
+        city_id: "30850",
+        lga_name: "Jahun",
       },
     },
     {
@@ -9674,6 +9925,9 @@ const jigawaWards = {
         ward_name: "Rumfa",
         ward_code: "JI1308",
         global_id: "50aea755-1ef9-4398-88de-16c5d08dfb1d",
+        ward_id: "301",
+        city_id: "30849",
+        lga_name: "Hadejia",
       },
     },
     {
@@ -9745,6 +9999,8 @@ const jigawaWards = {
         ward_name: "Dan Ama",
         ward_code: "JI0903",
         global_id: "51c61aac-b992-4299-837f-ec4429e78b8c",
+        ward_id: "88",
+        city_id: "30846",
       },
     },
     {
@@ -9868,6 +10124,9 @@ const jigawaWards = {
         ward_name: "Kiyako",
         ward_code: "JI0304",
         global_id: "538673c0-20bb-4894-9908-5fdf62330bcb",
+        ward_id: "26",
+        city_id: "30842",
+        lga_name: "Birnin Kudi",
       },
     },
     {
@@ -10024,6 +10283,9 @@ const jigawaWards = {
         ward_name: "Fateka",
         ward_code: "JI2103",
         global_id: "54216457-7ae5-4102-a380-0b28d6cdc879",
+        ward_id: "220",
+        city_id: "30856",
+        lga_name: "Malam Madori",
       },
     },
     {
@@ -10091,6 +10353,9 @@ const jigawaWards = {
         ward_name: "Andaza",
         ward_code: "JI1901",
         global_id: "55ed2a98-cf71-461a-8df4-b3bff52bd326",
+        ward_id: "197",
+        city_id: "30854",
+        lga_name: "Kiyawa",
       },
     },
     {
@@ -10189,6 +10454,9 @@ const jigawaWards = {
         ward_name: "Yalo",
         ward_code: "JI1611",
         global_id: "575f7013-e321-4977-a345-966ec948e8ca",
+        ward_id: "175",
+        city_id: "30851",
+        lga_name: "Kaugama",
       },
     },
     {
@@ -10243,6 +10511,9 @@ const jigawaWards = {
         ward_name: "Ringim",
         ward_code: "JI2708",
         global_id: "57d02198-69eb-4044-8e7e-04b7d5e134f7",
+        ward_id: "245",
+        city_id: "30857",
+        lga_name: "Yankwashi",
       },
     },
     {
@@ -10395,6 +10666,9 @@ const jigawaWards = {
         ward_name: "Karnaya",
         ward_code: "JI0607",
         global_id: "57db464c-ea6f-428b-a606-7401929c501c",
+        ward_id: "61",
+        city_id: "30844",
+        lga_name: "Dutse",
       },
     },
     {
@@ -10449,6 +10723,9 @@ const jigawaWards = {
         ward_name: "Dabaza",
         ward_code: "JI1703",
         global_id: "58093399-3107-44fc-a133-b523b1a5ed9a",
+        ward_id: "177",
+        city_id: "30852",
+        lga_name: "Kazaure",
       },
     },
     {
@@ -10503,6 +10780,9 @@ const jigawaWards = {
         ward_name: "Kanti",
         ward_code: "JI1706",
         global_id: "587e9ff1-ad17-4f83-9515-e6c6a5e9891b",
+        ward_id: "181",
+        city_id: "30852",
+        lga_name: "Kazaure",
       },
     },
     {
@@ -10559,6 +10839,7 @@ const jigawaWards = {
         ward_name: "Kiri Kasama",
         ward_code: "JI1805",
         global_id: "655b0ff3-a625-4978-9642-cde447e0e395",
+        lga_name: "Kiri Kasama",
       },
     },
     {
@@ -10651,6 +10932,9 @@ const jigawaWards = {
         ward_name: "Ajaura",
         ward_code: "JI2601",
         global_id: "5b1ba5f2-7d6d-42a9-9c1c-649bf4220e82",
+        ward_id: "272",
+        city_id: "30859",
+        lga_name: "Taura",
       },
     },
     {
@@ -10743,6 +11027,9 @@ const jigawaWards = {
         ward_name: "Gagulmari",
         ward_code: "JI1303",
         global_id: "5b262e75-2c7b-41f0-b1e4-3d928048f2fe",
+        ward_id: "127",
+        city_id: "30849",
+        lga_name: "Hadejia",
       },
     },
     {
@@ -10841,6 +11128,7 @@ const jigawaWards = {
         ward_name: "Mai Aduwa",
         ward_code: "JI0706",
         global_id: "5c5a9674-e34e-423d-93d3-68c389503a10",
+        lga_name: "gagarawa",
       },
     },
     {
@@ -10906,6 +11194,9 @@ const jigawaWards = {
         ward_name: "Gagarawa Gari",
         ward_code: "JI0701",
         global_id: "5c8020c0-21e8-48b6-aecc-93d5acf981c9",
+        ward_id: "66",
+        city_id: "48318",
+        lga_name: "gagarawa",
       },
     },
     {
@@ -10995,6 +11286,7 @@ const jigawaWards = {
         ward_name: "Dakaiyyawa",
         ward_code: "JI1604",
         global_id: "5c84e84d-6456-407a-b3d3-c85ad5d80045",
+        lga_name: "Kaugama",
       },
     },
     {
@@ -11058,6 +11350,9 @@ const jigawaWards = {
         ward_name: "Gayin",
         ward_code: "JI1804",
         global_id: "5f6779c8-8c99-4c94-9054-06e0da7a35e3",
+        ward_id: "190",
+        city_id: "48315",
+        lga_name: "Kiri Kasama",
       },
     },
     {
@@ -11250,6 +11545,9 @@ const jigawaWards = {
         ward_name: "Farin Dutse",
         ward_code: "JI1104",
         global_id: "5d2fdcdc-c968-4b04-8c60-f7417d5ed7ee",
+        ward_id: "106",
+        city_id: "30847",
+        lga_name: "Gwaram",
       },
     },
     {
@@ -11307,6 +11605,9 @@ const jigawaWards = {
         ward_name: "Malam Madori",
         ward_code: "JI2106",
         global_id: "655eb143-b72d-470b-833d-24e63760cd8e",
+        ward_id: "224",
+        city_id: "30856",
+        lga_name: "Malam Madori",
       },
     },
     {
@@ -11376,6 +11677,9 @@ const jigawaWards = {
         ward_name: "Idanduna",
         ward_code: "JI1407",
         global_id: "5ed9367a-7765-4cdd-ad81-6dc3975d0c74",
+        ward_id: "147",
+        city_id: "30850",
+        lga_name: "Jahun",
       },
     },
     {
@@ -11491,6 +11795,9 @@ const jigawaWards = {
         ward_name: "Kyarama",
         ward_code: "JI2305",
         global_id: "5f488b08-32d4-45c2-a662-87721241a466",
+        ward_id: "244",
+        city_id: "30857",
+        lga_name: "Ringim",
       },
     },
     {
@@ -11576,6 +11883,9 @@ const jigawaWards = {
         ward_name: "Madaka",
         ward_code: "JI0705",
         global_id: "61950fa8-f6bb-4dc7-a611-0cac10515b79",
+        ward_id: "70",
+        city_id: "48318",
+        lga_name: "gagarawa",
       },
     },
     {
@@ -11759,6 +12069,9 @@ const jigawaWards = {
         ward_name: "Ruba",
         ward_code: "JI1509",
         global_id: "621b9073-a514-4717-874c-e05f968dc2b0",
+        ward_id: "162",
+        city_id: "30853",
+        lga_name: "Kafin Hausa",
       },
     },
     {
@@ -11856,6 +12169,9 @@ const jigawaWards = {
         ward_name: "Kantoga",
         ward_code: "JI0303",
         global_id: "64b364d6-d0d1-4434-a8a3-091ae81c32ef",
+        ward_id: "25",
+        city_id: "30842",
+        lga_name: "Birnin Kudi",
       },
     },
     {
@@ -11938,6 +12254,9 @@ const jigawaWards = {
         ward_name: "Harbo Sabuwa",
         ward_code: "JI1405",
         global_id: "64d70e32-aa57-4409-a8e3-4762ed7b8a95",
+        ward_id: "152",
+        city_id: "30850",
+        lga_name: "Jahun",
       },
     },
     {
@@ -12002,6 +12321,9 @@ const jigawaWards = {
         ward_name: "Matoya",
         ward_code: "JI2010",
         global_id: "65c9ea82-4e30-4785-8211-cccd03d6c66c",
+        ward_id: "217",
+        city_id: "30855",
+        lga_name: "Maigatari",
       },
     },
     {
@@ -12071,6 +12393,8 @@ const jigawaWards = {
         ward_name: "Hammado",
         ward_code: "JI0908",
         global_id: "66f48c8d-53dc-4ee2-8cb8-a100c6f5394f",
+        ward_id: "90",
+        city_id: "30846",
       },
     },
     {
@@ -12184,6 +12508,7 @@ const jigawaWards = {
         ward_name: "Shaiya",
         ward_code: "JI2108",
         global_id: "691ce96c-3b90-4299-bba7-ef11cd3f78b8",
+        lga_name: "Malam Madori",
       },
     },
     {
@@ -12246,6 +12571,9 @@ const jigawaWards = {
         ward_name: "Jajeri",
         ward_code: "JI2005",
         global_id: "6a214302-1088-49b1-aee4-591f7cfeb5dc",
+        ward_id: "211",
+        city_id: "30855",
+        lga_name: "Maigatari",
       },
     },
     {
@@ -12291,6 +12619,9 @@ const jigawaWards = {
         ward_name: "Kore Balatu",
         ward_code: "JI0704",
         global_id: "6a406411-7f10-4c8e-860b-247e64a275cf",
+        ward_id: "69",
+        city_id: "48318",
+        lga_name: "gagarawa",
       },
     },
     {
@@ -12391,6 +12722,9 @@ const jigawaWards = {
         ward_name: "Yanduna",
         ward_code: "JI2210",
         global_id: "6b0b7e28-8bf4-4fae-9a6b-265eeeef90a5",
+        ward_id: "239",
+        city_id: "48320",
+        lga_name: "Miga",
       },
     },
     {
@@ -12447,6 +12781,7 @@ const jigawaWards = {
         ward_name: "Kwaita",
         ward_code: "JI2406",
         global_id: "6c164c4f-d6d2-417c-96e5-7d80d0959f52",
+        lga_name: "Roni",
       },
     },
     {
@@ -12526,6 +12861,9 @@ const jigawaWards = {
         ward_name: "Birniwa",
         ward_code: "JI0402",
         global_id: "6cc584dc-f79c-4b71-b414-7183a3555013",
+        ward_id: "35",
+        city_id: "48317",
+        lga_name: "Birniwa",
       },
     },
     {
@@ -12663,6 +13001,9 @@ const jigawaWards = {
         ward_name: "Limawa",
         ward_code: "JI0609",
         global_id: "6cd2ae14-ddc5-4c8e-8612-365ac4fde4ce",
+        ward_id: "64",
+        city_id: "30844",
+        lga_name: "Dutse",
       },
     },
     {
@@ -12843,6 +13184,9 @@ const jigawaWards = {
         ward_name: "Yayari",
         ward_code: "JI1311",
         global_id: "6cfaf41a-9df1-41b5-a5b6-0c265d8364db",
+        ward_id: "302",
+        city_id: "30849",
+        lga_name: "Hadejia",
       },
     },
     {
@@ -12904,6 +13248,9 @@ const jigawaWards = {
         ward_name: "Zugai",
         ward_code: "JI2411",
         global_id: "71df46d8-4212-4ce7-a0ce-4621d6562499",
+        ward_id: "258",
+        city_id: "48321",
+        lga_name: "Roni",
       },
     },
     {
@@ -12987,6 +13334,9 @@ const jigawaWards = {
         ward_name: "Kyambo",
         ward_code: "JI0210",
         global_id: "6f688fd5-1125-427d-a373-6015dad16cf1",
+        ward_id: "16",
+        city_id: "30841",
+        lga_name: "Babura",
       },
     },
     {
@@ -13115,6 +13465,9 @@ const jigawaWards = {
         ward_name: "Kanya",
         ward_code: "JI0806",
         global_id: "6f97294e-bc2a-4c2d-ab7d-2bcd8d2d111b",
+        ward_id: "80",
+        city_id: "30845",
+        lga_name: "Garki",
       },
     },
     {
@@ -13246,6 +13599,9 @@ const jigawaWards = {
         ward_name: "Gangawa",
         ward_code: "JI1402",
         global_id: "6fd65edd-55f2-405f-bca8-e8fb1191f0c2",
+        ward_id: "144",
+        city_id: "30850",
+        lga_name: "Jahun",
       },
     },
     {
@@ -13385,6 +13741,9 @@ const jigawaWards = {
         ward_name: "Gasakoli",
         ward_code: "JI0205",
         global_id: "7062a106-7205-4067-882a-6b960cc8b502",
+        ward_id: "17",
+        city_id: "30841",
+        lga_name: "Babura",
       },
     },
     {
@@ -13460,6 +13819,9 @@ const jigawaWards = {
         ward_name: "Kuzunzumi",
         ward_code: "JI0209",
         global_id: "74389982-338b-4186-8b73-907f6c06bdf1",
+        ward_id: "21",
+        city_id: "30841",
+        lga_name: "Babura",
       },
     },
     {
@@ -13547,6 +13909,9 @@ const jigawaWards = {
         ward_name: "Insharuwa",
         ward_code: "JI0206",
         global_id: "747e0815-ea60-4c87-ad14-746077c68c13",
+        ward_id: "18",
+        city_id: "30841",
+        lga_name: "Babura",
       },
     },
     {
@@ -13626,6 +13991,9 @@ const jigawaWards = {
         ward_name: "Ayama",
         ward_code: "JI0103",
         global_id: "754e33b1-6c5d-46a2-8640-dd1e0b213904",
+        ward_id: "4",
+        city_id: "48316",
+        lga_name: "Auyo",
       },
     },
     {
@@ -13691,6 +14059,9 @@ const jigawaWards = {
         ward_name: "Belas",
         ward_code: "JI2702",
         global_id: "76d5fd1f-ec0d-4f7d-ba42-49c88c87ed01",
+        ward_id: "283",
+        city_id: "48322",
+        lga_name: "Yankwashi",
       },
     },
     {
@@ -13768,6 +14139,9 @@ const jigawaWards = {
         ward_name: "Amaryawa",
         ward_code: "JI2401",
         global_id: "78ea3774-1073-497e-94bf-3d7cd6a5ffaa",
+        ward_id: "251",
+        city_id: "48321",
+        lga_name: "Roni",
       },
     },
     {
@@ -13821,6 +14195,9 @@ const jigawaWards = {
         ward_name: "Ayan",
         ward_code: "JI0104",
         global_id: "79a1352f-2ab6-41b8-9a3c-753a91cfe8b6",
+        ward_id: "5",
+        city_id: "48316",
+        lga_name: "Auyo",
       },
     },
     {
@@ -13919,6 +14296,9 @@ const jigawaWards = {
         ward_name: "Buduru",
         ward_code: "JI0801",
         global_id: "7b31cc82-4fc9-4bb6-8542-f488710e6063",
+        ward_id: "76",
+        city_id: "30845",
+        lga_name: "Garki",
       },
     },
     {
@@ -14138,6 +14518,9 @@ const jigawaWards = {
         ward_name: "Fagam",
         ward_code: "JI1103",
         global_id: "7b8b1c10-164a-46e5-aa2f-91ab731aaf2c",
+        ward_id: "105",
+        city_id: "30847",
+        lga_name: "Gwaram",
       },
     },
     {
@@ -14266,6 +14649,9 @@ const jigawaWards = {
         ward_name: "Toni Kutara",
         ward_code: "JI2111",
         global_id: "7ca62f9b-54df-47bf-a64c-2fe1851b663f",
+        ward_id: "227",
+        city_id: "30856",
+        lga_name: "Malam Madori",
       },
     },
     {
@@ -14421,6 +14807,9 @@ const jigawaWards = {
         ward_name: "Surko",
         ward_code: "JI0308",
         global_id: "7f8c04bb-d7f6-46ff-8f90-65e07fdae184",
+        ward_id: "30",
+        city_id: "30842",
+        lga_name: "Birnin Kudi",
       },
     },
     {
@@ -14475,6 +14864,9 @@ const jigawaWards = {
         ward_name: "Majia",
         ward_code: "JI2608",
         global_id: "7fe6a772-63af-482e-b25b-413fe8ba9c13",
+        ward_id: "278",
+        city_id: "30859",
+        lga_name: "Taura",
       },
     },
     {
@@ -14538,6 +14930,9 @@ const jigawaWards = {
         ward_name: "Miga",
         ward_code: "JI2206",
         global_id: "813e67f9-3717-4d6b-9919-78fe1deab40e",
+        ward_id: "235",
+        city_id: "48320",
+        lga_name: "Miga",
       },
     },
     {
@@ -14606,6 +15001,9 @@ const jigawaWards = {
         ward_name: "Shuwarin",
         ward_code: "JI1910",
         global_id: "8170fd1b-bc7d-4d26-8221-e8e2d146c36f",
+        ward_id: "201",
+        city_id: "30854",
+        lga_name: "Kiyawa",
       },
     },
     {
@@ -14665,6 +15063,9 @@ const jigawaWards = {
         ward_name: "Daba",
         ward_code: "JI1702",
         global_id: "82b4cdc3-abb7-41ac-b4bb-51e8fecc4f68",
+        ward_id: "178",
+        city_id: "30852",
+        lga_name: "Kazaure",
       },
     },
     {
@@ -14710,6 +15111,9 @@ const jigawaWards = {
         ward_name: "Yankwashi",
         ward_code: "JI2709",
         global_id: "82e438b3-5dd5-4f6f-b353-dfd3294292ae",
+        ward_id: "290",
+        city_id: "48322",
+        lga_name: "Yankwashi",
       },
     },
     {
@@ -14845,6 +15249,9 @@ const jigawaWards = {
         ward_name: "Ringim",
         ward_code: "JI2306",
         global_id: "82e540bc-87d7-49fa-90e1-e42a6dd776ac",
+        ward_id: "245",
+        city_id: "30857",
+        lga_name: "Ringim",
       },
     },
     {
@@ -14905,6 +15312,9 @@ const jigawaWards = {
         ward_name: "Karkarna",
         ward_code: "JI2706",
         global_id: "83a35e95-174c-4f3c-b691-fed7d1d94712",
+        ward_id: "287",
+        city_id: "48322",
+        lga_name: "Yankwashi",
       },
     },
     {
@@ -14968,6 +15378,9 @@ const jigawaWards = {
         ward_name: "Madabe",
         ward_code: "JI0509",
         global_id: "84538f86-9825-40f7-aeec-8a1f5c85eb8e",
+        ward_id: "53",
+        city_id: "30843",
+        lga_name: "Buji",
       },
     },
     {
@@ -15029,6 +15442,9 @@ const jigawaWards = {
         ward_name: "Shabaru",
         ward_code: "JI2507",
         global_id: "84585300-06e7-402c-a672-344223c79e55",
+        ward_id: "268",
+        city_id: "30858",
+        lga_name: "sule tankarkar",
       },
     },
     {
@@ -15123,6 +15539,9 @@ const jigawaWards = {
         ward_name: "Karanga",
         ward_code: "JI0407",
         global_id: "84693f00-af10-4944-88b3-e2cb0d66f3f1",
+        ward_id: "40",
+        city_id: "48317",
+        lga_name: "Birniwa",
       },
     },
     {
@@ -15232,6 +15651,9 @@ const jigawaWards = {
         ward_name: "Kafur",
         ward_code: "JI0108",
         global_id: "85ba231c-bc29-4b00-98c7-d5fe194bff36",
+        ward_id: "9",
+        city_id: "48316",
+        lga_name: "Auyo",
       },
     },
     {
@@ -15365,6 +15787,9 @@ const jigawaWards = {
         ward_name: "Fake",
         ward_code: "JI1903",
         global_id: "85b254fc-5386-4f1c-b8e1-2f5991f6f8ea",
+        ward_id: "199",
+        city_id: "30854",
+        lga_name: "Kiyawa",
       },
     },
     {
@@ -15535,6 +15960,9 @@ const jigawaWards = {
         ward_name: "Zandam Nagogo",
         ward_code: "JI1111",
         global_id: "87905124-97cc-489d-b770-4db3277935af",
+        ward_id: "113",
+        city_id: "30847",
+        lga_name: "Gwaram",
       },
     },
     {
@@ -15636,6 +16064,9 @@ const jigawaWards = {
         ward_name: "Majawa",
         ward_code: "JI1507",
         global_id: "88aa90a8-0222-4602-bf79-aa9541e43123",
+        ward_id: "160",
+        city_id: "30853",
+        lga_name: "Kafin Hausa",
       },
     },
     {
@@ -15706,6 +16137,9 @@ const jigawaWards = {
         ward_name: "Sabon Gari",
         ward_code: "JI2207",
         global_id: "89954fa8-d5a8-4e57-83fe-f51764a5ba33",
+        ward_id: "236",
+        city_id: "48320",
+        lga_name: "Miga",
       },
     },
     {
@@ -15778,6 +16212,9 @@ const jigawaWards = {
         ward_name: "Katanga",
         ward_code: "JI1905",
         global_id: "89f62059-7b90-4295-9c98-6bc782ced48b",
+        ward_id: "202",
+        city_id: "30854",
+        lga_name: "Kiyawa",
       },
     },
     {
@@ -15858,6 +16295,9 @@ const jigawaWards = {
         ward_name: "Koya",
         ward_code: "JI2205",
         global_id: "8a5026d6-c084-4db2-8c84-d6133396bed9",
+        ward_id: "234",
+        city_id: "48320",
+        lga_name: "Miga",
       },
     },
     {
@@ -15946,6 +16386,9 @@ const jigawaWards = {
         ward_name: "Jahun",
         ward_code: "JI1409",
         global_id: "8cabdb86-489e-4828-8fef-3c47345f15e5",
+        ward_id: "295",
+        city_id: "30850",
+        lga_name: "Jahun",
       },
     },
     {
@@ -16010,6 +16453,9 @@ const jigawaWards = {
         ward_name: "Gwiwa",
         ward_code: "JI1206",
         global_id: "8d0209e3-c143-470e-9504-812f0c7527a9",
+        ward_id: "119",
+        city_id: "30848",
+        lga_name: "Gwiwa",
       },
     },
     {
@@ -16068,6 +16514,7 @@ const jigawaWards = {
         ward_name: "Fulata",
         ward_code: "JI2003",
         global_id: "8d2658c8-27d3-4e31-8767-50c92894e7e5",
+        lga_name: "Maigatari",
       },
     },
     {
@@ -16214,6 +16661,9 @@ const jigawaWards = {
         ward_name: "Tasheguwa",
         ward_code: "JI1809",
         global_id: "8e486b9c-0cad-451f-9f1c-0914c25aab77",
+        ward_id: "195",
+        city_id: "48315",
+        lga_name: "Kiri Kasama",
       },
     },
     {
@@ -16304,6 +16754,9 @@ const jigawaWards = {
         ward_name: "Kafin Babushe",
         ward_code: "JI2303",
         global_id: "903a41a1-3321-4665-a845-310e2e869765",
+        ward_id: "250",
+        city_id: "30857",
+        lga_name: "Ringim",
       },
     },
     {
@@ -16413,6 +16866,9 @@ const jigawaWards = {
         ward_name: "Kachi",
         ward_code: "JI0606",
         global_id: "91ae376b-d1f1-4ec5-b0e7-9f6a54819497",
+        ward_id: "60",
+        city_id: "30844",
+        lga_name: "Dutse",
       },
     },
     {
@@ -16467,6 +16923,7 @@ const jigawaWards = {
         ward_name: "Dumadumi Toka",
         ward_code: "JI1502",
         global_id: "abb3fdae-a318-4ad6-ace1-435b95cfb544",
+        lga_name: "Kafin Hausa",
       },
     },
     {
@@ -16522,6 +16979,8 @@ const jigawaWards = {
         ward_name: "Zango",
         ward_code: "JI0911",
         global_id: "9291e088-97ae-4375-a85e-416389920be9",
+        ward_id: "91",
+        city_id: "30846",
       },
     },
     {
@@ -16609,6 +17068,9 @@ const jigawaWards = {
         ward_name: "Fagi",
         ward_code: "JI0405",
         global_id: "9296c138-af24-408d-851f-22bb7cc85cc1",
+        ward_id: "38",
+        city_id: "48317",
+        lga_name: "Birniwa",
       },
     },
     {
@@ -16690,6 +17152,9 @@ const jigawaWards = {
         ward_name: "Atafi",
         ward_code: "JI1301",
         global_id: "93467940-af5c-4ec5-92d5-6bbc42084682",
+        ward_id: "125",
+        city_id: "30849",
+        lga_name: "Hadejia",
       },
     },
     {
@@ -16728,6 +17193,8 @@ const jigawaWards = {
         ward_name: "Garin Gambo",
         ward_code: "JI0906",
         global_id: "93b7f74a-f47d-465b-b1c3-43953d4fd6bd",
+        ward_id: "89",
+        city_id: "30846",
       },
     },
     {
@@ -16800,6 +17267,9 @@ const jigawaWards = {
         ward_name: "Garin Chiroma",
         ward_code: "JI0703",
         global_id: "9422280d-ed45-434f-8dd5-e43d8d443fc4",
+        ward_id: "68",
+        city_id: "48318",
+        lga_name: "gagarawa",
       },
     },
     {
@@ -16911,6 +17381,9 @@ const jigawaWards = {
         ward_name: "Kargo",
         ward_code: "JI0807",
         global_id: "9c656f1e-da1e-435b-9ec9-9a873c6145cf",
+        ward_id: "81",
+        city_id: "30845",
+        lga_name: "Garki",
       },
     },
     {
@@ -17008,6 +17481,9 @@ const jigawaWards = {
         ward_name: "Sankara",
         ward_code: "JI2307",
         global_id: "9c669d4d-40f6-427e-9f86-609b8e34a682",
+        ward_id: "246",
+        city_id: "30857",
+        lga_name: "Ringim",
       },
     },
     {
@@ -17061,6 +17537,9 @@ const jigawaWards = {
         ward_name: "Maradawa",
         ward_code: "JI1707",
         global_id: "9f209eb0-177d-4903-b451-05f765a196fc",
+        ward_id: "182",
+        city_id: "30852",
+        lga_name: "Kazaure",
       },
     },
     {
@@ -17155,6 +17634,9 @@ const jigawaWards = {
         ward_name: "Katuka",
         ward_code: "JI1906",
         global_id: "9fa06c62-cb7e-401e-b010-ab7a3882a4c1",
+        ward_id: "203",
+        city_id: "30854",
+        lga_name: "Kiyawa",
       },
     },
     {
@@ -17227,6 +17709,9 @@ const jigawaWards = {
         ward_name: "Yola",
         ward_code: "JI1210",
         global_id: "9fba9072-e814-4260-8f6d-dbe750cd1aa8",
+        ward_id: "123",
+        city_id: "30848",
+        lga_name: "Gwiwa",
       },
     },
     {
@@ -17522,6 +18007,9 @@ const jigawaWards = {
         ward_name: "Abunabo",
         ward_code: "JI1001",
         global_id: "9fbfc017-ac42-4fc5-b210-a6e81fad1df1",
+        ward_id: "93",
+        city_id: "48319",
+        lga_name: "Guri",
       },
     },
     {
@@ -17595,6 +18083,7 @@ const jigawaWards = {
         ward_name: "Jigawa",
         ward_code: "JI0207",
         global_id: "9ffd3df9-3e63-4916-a0f3-eb08ae19b204",
+        lga_name: "Babura",
       },
     },
     {
@@ -17990,6 +18479,9 @@ const jigawaWards = {
         ward_name: "Balago",
         ward_code: "JI1902",
         global_id: "9fd60366-2e60-4101-a905-883e7a64be41",
+        ward_id: "198",
+        city_id: "30854",
+        lga_name: "Kiyawa",
       },
     },
     {
@@ -18098,6 +18590,9 @@ const jigawaWards = {
         ward_name: "Kale",
         ward_code: "JI1410",
         global_id: "a0003bec-3c0d-4428-9a0a-3f9269e3672b",
+        ward_id: "150",
+        city_id: "30850",
+        lga_name: "Jahun",
       },
     },
     {
@@ -18159,6 +18654,7 @@ const jigawaWards = {
         ward_name: "Jabbo",
         ward_code: "JI1504",
         global_id: "a0a8c6a9-ffc9-42f8-87ff-6ce0bb879082",
+        lga_name: "Kafin Hausa",
       },
     },
     {
@@ -18216,6 +18712,9 @@ const jigawaWards = {
         ward_name: "Galadi",
         ward_code: "JI2004",
         global_id: "a297efa2-ade6-4ceb-a057-59a979c68d92",
+        ward_id: "210",
+        city_id: "30855",
+        lga_name: "Maigatari",
       },
     },
     {
@@ -18282,6 +18781,9 @@ const jigawaWards = {
         ward_name: "Dorawa",
         ward_code: "JI0203",
         global_id: "a2eabc9e-aed4-4f8e-ba70-6182140275b2",
+        ward_id: "14",
+        city_id: "30841",
+        lga_name: "Babura",
       },
     },
     {
@@ -18350,6 +18852,7 @@ const jigawaWards = {
         ward_name: "Chukwaikwaiwa",
         ward_code: "JI2603",
         global_id: "a36a6de5-8733-42a0-8bc6-fd58d35a8da8",
+        lga_name: "Taura",
       },
     },
     {
@@ -18425,6 +18928,9 @@ const jigawaWards = {
         ward_name: "Dabi",
         ward_code: "JI1202",
         global_id: "a39c5f9a-ee3a-4ecd-b2f3-8bb3f9ad08c8",
+        ward_id: "242",
+        city_id: "30857",
+        lga_name: "Gwiwa",
       },
     },
     {
@@ -18678,6 +19184,9 @@ const jigawaWards = {
         ward_name: "Kadira",
         ward_code: "JI1006",
         global_id: "a443081e-8a1e-4b55-b5b7-ac4e0b8b8ef2",
+        ward_id: "98",
+        city_id: "48319",
+        lga_name: "Guri",
       },
     },
     {
@@ -18931,6 +19440,9 @@ const jigawaWards = {
         ward_name: "Chaichai",
         ward_code: "JI2301",
         global_id: "a5005a4d-db87-48e1-bbe3-488e9680d142",
+        ward_id: "241",
+        city_id: "30857",
+        lga_name: "Ringim",
       },
     },
     {
@@ -19044,6 +19556,9 @@ const jigawaWards = {
         ward_name: "Ahoto",
         ward_code: "JI0501",
         global_id: "a68f9fab-2af6-4204-85c1-aae7d5e879be",
+        ward_id: "45",
+        city_id: "30843",
+        lga_name: "Buji",
       },
     },
     {
@@ -19090,6 +19605,9 @@ const jigawaWards = {
         ward_name: "Saleri",
         ward_code: "JI1808",
         global_id: "a7ea5e4a-8030-4d5d-9cc8-a6dc8258ac0f",
+        ward_id: "194",
+        city_id: "48315",
+        lga_name: "Kiri Kasama",
       },
     },
     {
@@ -19214,6 +19732,9 @@ const jigawaWards = {
         ward_name: "Kafin Hausa",
         ward_code: "JI1505",
         global_id: "ab6bb6f4-bf3f-4ec9-a12d-cb5dbf23b7dd",
+        ward_id: "158",
+        city_id: "30853",
+        lga_name: "Kafin Hausa",
       },
     },
     {
@@ -19345,6 +19866,9 @@ const jigawaWards = {
         ward_name: "Dangyatin",
         ward_code: "JI2201",
         global_id: "ac3f78d6-babc-47c8-9aad-fbcf22c62afd",
+        ward_id: "230",
+        city_id: "48320",
+        lga_name: "Miga",
       },
     },
     {
@@ -19503,6 +20027,9 @@ const jigawaWards = {
         ward_name: "Kasuwar Kuda",
         ward_code: "JI1305",
         global_id: "acc31210-b12b-4a5a-9d12-e662d782c348",
+        ward_id: "128",
+        city_id: "30849",
+        lga_name: "Hadejia",
       },
     },
     {
@@ -19596,6 +20123,9 @@ const jigawaWards = {
         ward_name: "Batali",
         ward_code: "JI0202",
         global_id: "acfff6bf-d2bd-4213-8226-248d78d663f1",
+        ward_id: "13",
+        city_id: "30841",
+        lga_name: "Babura",
       },
     },
     {
@@ -19744,6 +20274,7 @@ const jigawaWards = {
         ward_name: "Tsarawa",
         ward_code: "JI1510",
         global_id: "adc6c40d-558e-460b-bde3-00255eea5340",
+        lga_name: "Kafin Hausa",
       },
     },
     {
@@ -19949,6 +20480,9 @@ const jigawaWards = {
         ward_name: "Musari",
         ward_code: "JI1010",
         global_id: "ae0e4c42-0633-40c9-bf26-6275d2ccc228",
+        ward_id: "101",
+        city_id: "48319",
+        lga_name: "Guri",
       },
     },
     {
@@ -20023,6 +20557,8 @@ const jigawaWards = {
         ward_name: "Kofar Arewa",
         ward_code: "JI0909",
         global_id: "ae3bfd6d-2c3d-45c0-a6a3-23bb59bb2eee",
+        ward_id: "305",
+        city_id: "30846",
       },
     },
     {
@@ -20089,6 +20625,9 @@ const jigawaWards = {
         ward_name: "Baauzini",
         ward_code: "JI1701",
         global_id: "af097d29-f428-424a-965a-d093c4685347",
+        ward_id: "176",
+        city_id: "30852",
+        lga_name: "Kazaure",
       },
     },
     {
@@ -20233,6 +20772,9 @@ const jigawaWards = {
         ward_name: "Unguwar Jibrin",
         ward_code: "JI1610",
         global_id: "b19f6cc0-4158-46d5-afed-55f759a207e9",
+        ward_id: "174",
+        city_id: "30851",
+        lga_name: "Kaugama",
       },
     },
     {
@@ -20421,6 +20963,9 @@ const jigawaWards = {
         ward_name: "Sintilmawa",
         ward_code: "JI2308",
         global_id: "b307b289-16e8-4786-adb5-36282949a93b",
+        ward_id: "247",
+        city_id: "30857",
+        lga_name: "Ringim",
       },
     },
     {
@@ -20495,6 +21040,7 @@ const jigawaWards = {
         ward_name: "Kachallari",
         ward_code: "JI0406",
         global_id: "b397a590-b42d-4ad3-91cb-ad2b0cb6851f",
+        lga_name: "Birniwa",
       },
     },
     {
@@ -20677,6 +21223,9 @@ const jigawaWards = {
         ward_name: "Hadin",
         ward_code: "JI1606",
         global_id: "b3d56293-068c-414d-be55-230974661c58",
+        ward_id: "170",
+        city_id: "30851",
+        lga_name: "Kaugama",
       },
     },
     {
@@ -20766,6 +21315,9 @@ const jigawaWards = {
         ward_name: "Zauma",
         ward_code: "JI1211",
         global_id: "b4db2969-19d4-4aea-8e11-791bbdd889d9",
+        ward_id: "124",
+        city_id: "30848",
+        lga_name: "Gwiwa",
       },
     },
     {
@@ -20820,6 +21372,9 @@ const jigawaWards = {
         ward_name: "Dansure",
         ward_code: "JI2403",
         global_id: "b640da0c-c8fe-40ac-9704-3ac8ae44bc8b",
+        ward_id: "253",
+        city_id: "48321",
+        lga_name: "Roni",
       },
     },
     {
@@ -20883,6 +21438,8 @@ const jigawaWards = {
         ward_name: "Dantanoma",
         ward_code: "JI0904",
         global_id: "b6988338-5131-4b5d-ad3c-0b86c7ddf0ec",
+        ward_id: "92",
+        city_id: "30846",
       },
     },
     {
@@ -20931,6 +21488,9 @@ const jigawaWards = {
         ward_name: "Gurjiya",
         ward_code: "JI2704",
         global_id: "b80c1b2b-39f2-4727-9d78-3b2eb343bf55",
+        ward_id: "285",
+        city_id: "48322",
+        lga_name: "Yankwashi",
       },
     },
     {
@@ -21053,6 +21613,9 @@ const jigawaWards = {
         ward_name: "Chamo",
         ward_code: "JI0602",
         global_id: "b862100c-ba71-4431-8b64-77bdf9a57392",
+        ward_id: "56",
+        city_id: "30844",
+        lga_name: "Dutse",
       },
     },
     {
@@ -21119,6 +21682,9 @@ const jigawaWards = {
         ward_name: "Zungumba",
         ward_code: "JI2710",
         global_id: "b9947e3e-bea6-4e43-96f6-570ad6b55bb9",
+        ward_id: "291",
+        city_id: "48322",
+        lga_name: "Yankwashi",
       },
     },
     {
@@ -21172,6 +21738,9 @@ const jigawaWards = {
         ward_name: "Maikilili",
         ward_code: "JI0707",
         global_id: "b9efe60f-a117-48be-8f31-b39a4dd29f51",
+        ward_id: "72",
+        city_id: "48318",
+        lga_name: "gagarawa",
       },
     },
     {
@@ -21240,6 +21809,9 @@ const jigawaWards = {
         ward_name: "Madachi",
         ward_code: "JI1806",
         global_id: "ba3fe816-122e-4c3f-9579-b3b48e3838da",
+        ward_id: "192",
+        city_id: "48315",
+        lga_name: "Kiri Kasama",
       },
     },
     {
@@ -21341,6 +21913,9 @@ const jigawaWards = {
         ward_name: "Sankau",
         ward_code: "JI2408",
         global_id: "bad5bde5-04c6-4fc6-bd39-3f5a8ba6e31c",
+        ward_id: "260",
+        city_id: "48321",
+        lga_name: "Roni",
       },
     },
     {
@@ -21417,6 +21992,8 @@ const jigawaWards = {
         ward_name: "Bekarya",
         ward_code: "JI0902",
         global_id: "bc1c78a4-b2e2-420a-a0ec-cbdeb4580985",
+        ward_id: "86",
+        city_id: "30846",
       },
     },
     {
@@ -21697,6 +22274,9 @@ const jigawaWards = {
         ward_name: "Wurno",
         ward_code: "JI0310",
         global_id: "bd5f8409-8d8e-42f5-8426-52b2a5ba7ef7",
+        ward_id: "32",
+        city_id: "30842",
+        lga_name: "Birnin Kudi",
       },
     },
     {
@@ -21753,6 +22333,7 @@ const jigawaWards = {
         ward_name: "Unguwar Arewa",
         ward_code: "JI1709",
         global_id: "be6d7f28-800d-4faf-bdb5-82d64e0167eb",
+        lga_name: "Kazaure",
       },
     },
     {
@@ -22041,6 +22622,9 @@ const jigawaWards = {
         ward_name: "Arki",
         ward_code: "JI2101",
         global_id: "bf5fe864-a464-428e-952e-90492b05c459",
+        ward_id: "219",
+        city_id: "30856",
+        lga_name: "Malam Madori",
       },
     },
     {
@@ -22124,6 +22708,9 @@ const jigawaWards = {
         ward_name: "Guri",
         ward_code: "JI1005",
         global_id: "bf7336d7-6d33-4c09-ba5a-a592892b049b",
+        ward_id: "97",
+        city_id: "48319",
+        lga_name: "Guri",
       },
     },
     {
@@ -22210,6 +22797,7 @@ const jigawaWards = {
         ward_name: "Matara Babba",
         ward_code: "JI1009",
         global_id: "c1874b49-2bbe-41c3-b6e5-ade812e74b5a",
+        lga_name: "Guri",
       },
     },
     {
@@ -22259,6 +22847,9 @@ const jigawaWards = {
         ward_name: "Gada",
         ward_code: "JI1705",
         global_id: "c1bf9aa3-3cb6-441d-b36e-a5e8868dd447",
+        ward_id: "180",
+        city_id: "30852",
+        lga_name: "Kazaure",
       },
     },
     {
@@ -22433,6 +23024,9 @@ const jigawaWards = {
         ward_name: "Tsirma",
         ward_code: "JI1911",
         global_id: "c21b523c-667f-4513-bd72-8b7be55bc99e",
+        ward_id: "207",
+        city_id: "30854",
+        lga_name: "Kiyawa",
       },
     },
     {
@@ -22514,6 +23108,9 @@ const jigawaWards = {
         ward_name: "Shafe",
         ward_code: "JI1209",
         global_id: "c2599480-2b42-4f76-b8e8-508ee16265d7",
+        ward_id: "122",
+        city_id: "30848",
+        lga_name: "Gwiwa",
       },
     },
     {
@@ -22709,6 +23306,9 @@ const jigawaWards = {
         ward_name: "Matamu",
         ward_code: "JI0410",
         global_id: "c37fdd52-9d9a-413c-818a-89474a7a1c65",
+        ward_id: "44",
+        city_id: "48317",
+        lga_name: "Birniwa",
       },
     },
     {
@@ -22774,6 +23374,9 @@ const jigawaWards = {
         ward_name: "Achilafiya",
         ward_code: "JI2701",
         global_id: "c4c936cf-5a8d-4dd7-bb6e-f4e32f75d7df",
+        ward_id: "282",
+        city_id: "48322",
+        lga_name: "Yankwashi",
       },
     },
     {
@@ -22846,6 +23449,9 @@ const jigawaWards = {
         ward_name: "Gujungu",
         ward_code: "JI2604",
         global_id: "c56f1d1d-66a6-48bf-b651-16c3b950d5a8",
+        ward_id: "275",
+        city_id: "30859",
+        lga_name: "Taura",
       },
     },
     {
@@ -22883,6 +23489,9 @@ const jigawaWards = {
         ward_name: "Kiri",
         ward_code: "JI2605",
         global_id: "c5c5a1e1-5f83-48c8-8fad-e5d915a03bca",
+        ward_id: "276",
+        city_id: "30859",
+        lga_name: "Taura",
       },
     },
     {
@@ -22988,6 +23597,9 @@ const jigawaWards = {
         ward_name: "Majema",
         ward_code: "JI1306",
         global_id: "c63c5196-2ba5-45d3-933b-a0e6b5cf6e53",
+        ward_id: "300",
+        city_id: "30849",
+        lga_name: "Hadejia",
       },
     },
     {
@@ -23067,6 +23679,9 @@ const jigawaWards = {
         ward_name: "Amanga",
         ward_code: "JI2502",
         global_id: "c72c721e-5faf-4935-ad0f-d6ed6d9f8e8e",
+        ward_id: "263",
+        city_id: "30858",
+        lga_name: "sule tankarkar",
       },
     },
     {
@@ -23238,6 +23853,9 @@ const jigawaWards = {
         ward_name: "Baturiya",
         ward_code: "JI1801",
         global_id: "c8a111b9-6f77-4241-8573-7098b773b5fe",
+        ward_id: "187",
+        city_id: "48315",
+        lga_name: "Kiri Kasama",
       },
     },
     {
@@ -23284,6 +23902,7 @@ const jigawaWards = {
         ward_name: "Fara Barije",
         ward_code: "JI2404",
         global_id: "c9b0afa7-4f22-4d40-a24e-7fe9177cf838",
+        lga_name: "Roni",
       },
     },
     {
@@ -23352,6 +23971,9 @@ const jigawaWards = {
         ward_name: "Firji",
         ward_code: "JI1204",
         global_id: "cab163e7-3fb2-4280-bf50-77bf32322f57",
+        ward_id: "117",
+        city_id: "30848",
+        lga_name: "Gwiwa",
       },
     },
     {
@@ -23469,6 +24091,9 @@ const jigawaWards = {
         ward_name: "Kwangwara",
         ward_code: "JI0305",
         global_id: "caddf82f-f0d2-46e7-a3da-596e93059bb3",
+        ward_id: "27",
+        city_id: "30842",
+        lga_name: "Birnin Kudi",
       },
     },
     {
@@ -23560,6 +24185,9 @@ const jigawaWards = {
         ward_name: "Unik",
         ward_code: "JI0110",
         global_id: "caf8ecc8-3363-4558-b979-96fceb5a7459",
+        ward_id: "11",
+        city_id: "48316",
+        lga_name: "Auyo",
       },
     },
     {
@@ -23665,6 +24293,9 @@ const jigawaWards = {
         ward_name: "Taura",
         ward_code: "JI2610",
         global_id: "cb06f8c7-43e9-4944-a1b4-208b0b74ec9e",
+        ward_id: "281",
+        city_id: "30859",
+        lga_name: "Taura",
       },
     },
     {
@@ -23787,6 +24418,9 @@ const jigawaWards = {
         ward_name: "Gatafa",
         ward_code: "JI0107",
         global_id: "cb492a3e-5c1e-4e47-a53d-67dad49bd0f0",
+        ward_id: "8",
+        city_id: "48316",
+        lga_name: "Auyo",
       },
     },
     {
@@ -23849,6 +24483,9 @@ const jigawaWards = {
         ward_name: "Garu",
         ward_code: "JI0204",
         global_id: "cc40b3bb-c860-425e-99d5-8386d8665936",
+        ward_id: "15",
+        city_id: "30841",
+        lga_name: "Babura",
       },
     },
     {
@@ -23913,6 +24550,7 @@ const jigawaWards = {
         ward_name: "Falgeri",
         ward_code: "JI0504",
         global_id: "cc570f22-fd76-4a4b-9d66-c76440cfa885",
+        lga_name: "Buji",
       },
     },
     {
@@ -23967,6 +24605,7 @@ const jigawaWards = {
         ward_name: "Chirbin",
         ward_code: "JI0503",
         global_id: "ccf16932-f8f9-4a70-8f60-304f9c72660c",
+        lga_name: "Buji",
       },
     },
     {
@@ -24028,6 +24667,9 @@ const jigawaWards = {
         ward_name: "Gagarawa Tasha",
         ward_code: "JI0702",
         global_id: "ce0d86be-e3e8-462f-9e57-4b32a99738be",
+        ward_id: "67",
+        city_id: "48318",
+        lga_name: "gagarawa",
       },
     },
     {
@@ -24139,6 +24781,9 @@ const jigawaWards = {
         ward_name: "Tsangarwa",
         ward_code: "JI1110",
         global_id: "ce293a48-c49a-4f83-97ef-c2ed12944364",
+        ward_id: "112",
+        city_id: "30847",
+        lga_name: "Gwaram",
       },
     },
     {
@@ -24332,6 +24977,9 @@ const jigawaWards = {
         ward_name: "Yandutse",
         ward_code: "JI2310",
         global_id: "ce997f28-77f7-4c2e-adb6-a7284c1d5532",
+        ward_id: "249",
+        city_id: "30857",
+        lga_name: "Ringim",
       },
     },
     {
@@ -24496,6 +25144,9 @@ const jigawaWards = {
         ward_name: "Basirka",
         ward_code: "JI1101",
         global_id: "cf520b5e-b9f2-482f-aa99-e8308b44c1da",
+        ward_id: "103",
+        city_id: "30847",
+        lga_name: "Gwaram",
       },
     },
     {
@@ -24628,6 +25279,9 @@ const jigawaWards = {
         ward_name: "Kukuma",
         ward_code: "JI0507",
         global_id: "d10ce092-caa0-4b8a-a66e-8160a08010a2",
+        ward_id: "51",
+        city_id: "30843",
+        lga_name: "Buji",
       },
     },
     {
@@ -24733,6 +25387,7 @@ const jigawaWards = {
         ward_name: "Sule Tankarkar",
         ward_code: "JI2508",
         global_id: "d2a1014a-e5d3-4c0b-b279-9ebb8500aa12",
+        lga_name: "sule tankarkar",
       },
     },
     {
@@ -24897,6 +25552,9 @@ const jigawaWards = {
         ward_name: "Tashena",
         ward_code: "JI2110",
         global_id: "d4147805-3e4b-49fa-a345-1d53e66417b5",
+        ward_id: "229",
+        city_id: "30856",
+        lga_name: "Malam Madori",
       },
     },
     {
@@ -24995,6 +25653,9 @@ const jigawaWards = {
         ward_name: "Nguwa",
         ward_code: "JI0411",
         global_id: "d4293e8b-2380-4ff4-abfe-0fe445cde507",
+        ward_id: "43",
+        city_id: "48317",
+        lga_name: "Birniwa",
       },
     },
     {
@@ -25072,6 +25733,9 @@ const jigawaWards = {
         ward_name: "Askandu",
         ward_code: "JI1602",
         global_id: "d5a28d2b-a9e9-4b75-98eb-20b8d466d0e7",
+        ward_id: "166",
+        city_id: "30851",
+        lga_name: "Kaugama",
       },
     },
     {
@@ -25140,6 +25804,9 @@ const jigawaWards = {
         ward_name: "Kawaya",
         ward_code: "JI0506",
         global_id: "d67b7fbf-2dfd-455a-ae3c-d5b2823565ae",
+        ward_id: "50",
+        city_id: "30843",
+        lga_name: "Buji",
       },
     },
     {
@@ -25216,6 +25883,9 @@ const jigawaWards = {
         ward_name: "Danladi",
         ward_code: "JI2504",
         global_id: "d7735304-fb58-4426-8457-0f53a77abbfa",
+        ward_id: "265",
+        city_id: "30858",
+        lga_name: "sule tankarkar",
       },
     },
     {
@@ -25298,6 +25968,9 @@ const jigawaWards = {
         ward_name: "Marma",
         ward_code: "JI1807",
         global_id: "db4a52b3-5eed-4a25-9ee0-a9a9d784603e",
+        ward_id: "193",
+        city_id: "48315",
+        lga_name: "Kiri Kasama",
       },
     },
     {
@@ -25451,6 +26124,9 @@ const jigawaWards = {
         ward_name: "Aujara",
         ward_code: "JI1401",
         global_id: "dbd186b1-bba1-4dce-8b3c-7a7a15787fe0",
+        ward_id: "143",
+        city_id: "30850",
+        lga_name: "Jahun",
       },
     },
     {
@@ -25530,6 +26206,9 @@ const jigawaWards = {
         ward_name: "Buji",
         ward_code: "JI0502",
         global_id: "dcff51fe-332b-4495-aad7-d8d16e29f31f",
+        ward_id: "46",
+        city_id: "30843",
+        lga_name: "Buji",
       },
     },
     {
@@ -25592,6 +26271,9 @@ const jigawaWards = {
         ward_name: "Albasu",
         ward_code: "JI2501",
         global_id: "e10f33d1-1984-4b34-962c-82616efd274f",
+        ward_id: "262",
+        city_id: "30858",
+        lga_name: "sule tankarkar",
       },
     },
     {
@@ -25698,6 +26380,9 @@ const jigawaWards = {
         ward_name: "Kwalam",
         ward_code: "JI2606",
         global_id: "ddcb4bc1-bd31-4b2f-a2f7-9f011f400c25",
+        ward_id: "277",
+        city_id: "30859",
+        lga_name: "Taura",
       },
     },
     {
@@ -25754,6 +26439,9 @@ const jigawaWards = {
         ward_name: "Gantsa",
         ward_code: "JI0505",
         global_id: "e0bb3fd5-da8b-485c-b148-d9b9873e7158",
+        ward_id: "49",
+        city_id: "30843",
+        lga_name: "Buji",
       },
     },
     {
@@ -25919,6 +26607,9 @@ const jigawaWards = {
         ward_name: "Dubantu",
         ward_code: "JI1302",
         global_id: "e1794a21-a93a-44d4-ad02-b610e58682c2",
+        ward_id: "126",
+        city_id: "30849",
+        lga_name: "Hadejia",
       },
     },
     {
@@ -26117,6 +26808,9 @@ const jigawaWards = {
         ward_name: "Lafiya",
         ward_code: "JI1007",
         global_id: "e1eb7893-8450-4534-add1-d773a66e7e30",
+        ward_id: "99",
+        city_id: "48319",
+        lga_name: "Guri",
       },
     },
     {
@@ -26172,6 +26866,9 @@ const jigawaWards = {
         ward_name: "Hantsu",
         ward_code: "JI2204",
         global_id: "e30f7943-ef9c-43a0-9444-42f6eda8489e",
+        ward_id: "233",
+        city_id: "48320",
+        lga_name: "Miga",
       },
     },
     {
@@ -26364,6 +27061,9 @@ const jigawaWards = {
         ward_name: "Gamsarka",
         ward_code: "JI0106",
         global_id: "e38eb5c4-9efa-49a8-b9e2-a06cafc308e9",
+        ward_id: "7",
+        city_id: "48316",
+        lga_name: "Auyo",
       },
     },
     {
@@ -26572,6 +27272,9 @@ const jigawaWards = {
         ward_name: "Fandum",
         ward_code: "JI1803",
         global_id: "e3d2a4e6-d803-48de-9723-fb888049b17b",
+        ward_id: "189",
+        city_id: "48315",
+        lga_name: "Kiri Kasama",
       },
     },
     {
@@ -26676,6 +27379,9 @@ const jigawaWards = {
         ward_name: "Kanya",
         ward_code: "JI0208",
         global_id: "e481e75f-c13a-4b70-9610-b1eff0393e94",
+        ward_id: "80",
+        city_id: "30845",
+        lga_name: "Babura",
       },
     },
     {
@@ -26783,6 +27489,7 @@ const jigawaWards = {
         ward_name: "Gwarzo",
         ward_code: "JI0804",
         global_id: "e4ef8ae5-4f7c-4866-9a57-1f7ca5a144e1",
+        lga_name: "Garki",
       },
     },
     {
@@ -27009,6 +27716,9 @@ const jigawaWards = {
         ward_name: "Sara",
         ward_code: "JI1109",
         global_id: "e7f51f40-52f7-4315-8f23-b2efc6572d1a",
+        ward_id: "111",
+        city_id: "30847",
+        lga_name: "Gwaram",
       },
     },
     {
@@ -27175,6 +27885,7 @@ const jigawaWards = {
         ward_name: "Sabongarin Yaya",
         ward_code: "JI2609",
         global_id: "e8d7e775-43a0-4773-bb38-aba54bfede07",
+        lga_name: "Taura",
       },
     },
     {
@@ -27250,6 +27961,9 @@ const jigawaWards = {
         ward_name: "Gwari",
         ward_code: "JI2203",
         global_id: "e8db7b30-c24f-4ca1-a877-7c2b3dcf2d8b",
+        ward_id: "232",
+        city_id: "48320",
+        lga_name: "Miga",
       },
     },
     {
@@ -27301,6 +28015,9 @@ const jigawaWards = {
         ward_name: "Garko",
         ward_code: "JI1904",
         global_id: "e9e029a7-8d0e-4185-855f-01a66d4f2338",
+        ward_id: "200",
+        city_id: "30854",
+        lga_name: "Kiyawa",
       },
     },
     {
@@ -27368,6 +28085,9 @@ const jigawaWards = {
         ward_name: "Balarabe",
         ward_code: "JI2001",
         global_id: "ee214325-5507-4bb0-a5f2-a8adee2d9c01",
+        ward_id: "208",
+        city_id: "30855",
+        lga_name: "Maigatari",
       },
     },
     {
@@ -27447,6 +28167,9 @@ const jigawaWards = {
         ward_name: "Kwanda",
         ward_code: "JI1908",
         global_id: "eeb38173-b5af-424e-840c-e4401e044959",
+        ward_id: "205",
+        city_id: "30854",
+        lga_name: "Kiyawa",
       },
     },
     {
@@ -27557,6 +28280,9 @@ const jigawaWards = {
         ward_name: "Auyakayi",
         ward_code: "JI0101",
         global_id: "ef3cdf27-a0fa-419c-afbc-e4f0bed76974",
+        ward_id: "2",
+        city_id: "48316",
+        lga_name: "Auyo",
       },
     },
     {
@@ -27604,6 +28330,9 @@ const jigawaWards = {
         ward_name: "Babura",
         ward_code: "JI0201",
         global_id: "efa93abd-a98c-4fb9-b830-eac18acd8950",
+        ward_id: "12",
+        city_id: "30841",
+        lga_name: "Babura",
       },
     },
     {
@@ -27737,6 +28466,9 @@ const jigawaWards = {
         ward_name: "Gwaram",
         ward_code: "JI1105",
         global_id: "f1880722-9fc1-4e6d-8bd3-4b0b3612508e",
+        ward_id: "107",
+        city_id: "30847",
+        lga_name: "Gwaram",
       },
     },
     {
@@ -27824,6 +28556,9 @@ const jigawaWards = {
         ward_name: "Batu",
         ward_code: "JI0401",
         global_id: "f28ca62b-1486-40b3-ae94-2bda6a7505a3",
+        ward_id: "34",
+        city_id: "48317",
+        lga_name: "Birniwa",
       },
     },
     {
@@ -27908,6 +28643,9 @@ const jigawaWards = {
         ward_name: "Gafaya",
         ward_code: "JI1503",
         global_id: "f489f756-9bd7-4d05-ac6a-f6b9255e79ab",
+        ward_id: "156",
+        city_id: "30853",
+        lga_name: "Kafin Hausa",
       },
     },
     {
@@ -28045,6 +28783,9 @@ const jigawaWards = {
         ward_name: "Unguwar Ya",
         ward_code: "JI0309",
         global_id: "f5f6b533-fd03-40c0-8761-429c65785dfa",
+        ward_id: "31",
+        city_id: "30842",
+        lga_name: "Birnin Kudi",
       },
     },
     {
@@ -28129,6 +28870,9 @@ const jigawaWards = {
         ward_name: "Yandamo",
         ward_code: "JI2510",
         global_id: "f663b13f-8b0c-4b2c-bf53-573648419c97",
+        ward_id: "271",
+        city_id: "30858",
+        lga_name: "sule tankarkar",
       },
     },
     {
@@ -28395,6 +29139,9 @@ const jigawaWards = {
         ward_name: "Turabu",
         ward_code: "JI1810",
         global_id: "f6a5b867-ec20-4332-838b-c4435afa36bc",
+        ward_id: "196",
+        city_id: "48315",
+        lga_name: "Kiri Kasama",
       },
     },
     {
@@ -28468,6 +29215,9 @@ const jigawaWards = {
         ward_name: "Tunas",
         ward_code: "JI2409",
         global_id: "f7742926-007a-48f3-86b7-48b429396bac",
+        ward_id: "256",
+        city_id: "48321",
+        lga_name: "Roni",
       },
     },
     {
@@ -28532,6 +29282,9 @@ const jigawaWards = {
         ward_name: "Sabaru",
         ward_code: "JI1708",
         global_id: "f7e104f0-08dd-46ea-88b7-f6efc9e9647c",
+        ward_id: "183",
+        city_id: "30852",
+        lga_name: "Kazaure",
       },
     },
     {
@@ -28620,6 +29373,9 @@ const jigawaWards = {
         ward_name: "Kanwa",
         ward_code: "JI1411",
         global_id: "f9a3812c-d8e8-4bed-84d4-7f6908041230",
+        ward_id: "151",
+        city_id: "30850",
+        lga_name: "Jahun",
       },
     },
     {
@@ -28760,6 +29516,9 @@ const jigawaWards = {
         ward_name: "Diginsa",
         ward_code: "JI0404",
         global_id: "f9f2985a-f4a1-4f4d-bc10-2869db9f20ed",
+        ward_id: "37",
+        city_id: "48317",
+        lga_name: "Birniwa",
       },
     },
     {
@@ -28803,6 +29562,9 @@ const jigawaWards = {
         ward_name: "Dawan Gawo",
         ward_code: "JI2703",
         global_id: "fbede6e9-823d-428e-8887-4c07340174c3",
+        ward_id: "284",
+        city_id: "48322",
+        lga_name: "Yankwashi",
       },
     },
     {
@@ -28859,6 +29621,7 @@ const jigawaWards = {
         ward_name: "Gamafoi",
         ward_code: "JI0105",
         global_id: "fb239851-848a-4b18-97c8-647c2c31130b",
+        lga_name: "Auyo",
       },
     },
     {
@@ -29041,6 +29804,9 @@ const jigawaWards = {
         ward_name: "Sabon Garu",
         ward_code: "JI1309",
         global_id: "fba04bd4-a709-43b6-883c-f18070c9abeb",
+        ward_id: "130",
+        city_id: "30849",
+        lga_name: "Hadejia",
       },
     },
     {
@@ -29215,6 +29981,9 @@ const jigawaWards = {
         ward_name: "Kila",
         ward_code: "JI1106",
         global_id: "fc076d27-afdc-4453-9982-a00d5b04e2a7",
+        ward_id: "108",
+        city_id: "30847",
+        lga_name: "Gwaram",
       },
     },
     {
@@ -29276,6 +30045,9 @@ const jigawaWards = {
         ward_name: "Yalawa",
         ward_code: "JI0709",
         global_id: "fd96a65f-1a49-4ea4-b075-28d6903cf60a",
+        ward_id: "74",
+        city_id: "48318",
+        lga_name: "gagarawa",
       },
     },
     {
@@ -29374,6 +30146,9 @@ const jigawaWards = {
         ward_name: "Takwasa",
         ward_code: "JI0211",
         global_id: "ff958da3-a89f-4ee0-aea4-1d8e32839957",
+        ward_id: "292",
+        city_id: "30841",
+        lga_name: "Babura",
       },
     },
     {
@@ -29476,6 +30251,9 @@ const jigawaWards = {
         ward_name: "Matsaro",
         ward_code: "JI1307",
         global_id: "ffb8618c-a9c2-45f3-852c-65ff7aee2f5d",
+        ward_id: "129",
+        city_id: "30849",
+        lga_name: "Hadejia",
       },
     },
     {
@@ -29569,6 +30347,9 @@ const jigawaWards = {
         ward_name: "Dunari",
         ward_code: "JI2102",
         global_id: "ffca87ef-4a30-4d66-9dca-d9fe258109ee",
+        ward_id: "228",
+        city_id: "30856",
+        lga_name: "Malam Madori",
       },
     },
   ],
@@ -29577,4 +30358,4 @@ const jigawaWards = {
   numberReturned: 288,
   timeStamp: "2023-10-20T14:00:55.337Z",
   crs: { type: "name", properties: { name: "urn:ogc:def:crs:EPSG::4326" } },
-};
+}; 

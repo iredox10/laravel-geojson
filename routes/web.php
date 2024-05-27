@@ -8,8 +8,12 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-
-
+Route::get('/test', function () {
+    return view('test');
+});
+Route::get('/new-geojson', function () {
+    return view('newGeojson');
+});
 Route::get('/geojson', function () {
     return view('geojson');
 });
@@ -23,7 +27,7 @@ Route::get(
     function () {
         try {
             $wards = Wards::all();
-            return view('geojson',['wards' => $wards]);
+            return view('geojson', ['wards' => $wards]);
         } catch (\Exception $e) {
             return response()->json([
                 'success' => false,
@@ -94,3 +98,21 @@ Route::get(
         }
     }
 );
+
+Route::post('/add-dbLga', function ($request) {
+    try {
+        $updatedLgas = Wards::where('cityId', $request->cityId)
+            ->update(['lgaName' => $request->lgaName]);
+
+        // Check if updates were successful before constructing response
+        if ($updatedLgas > 0) {
+            // Optionally, fetch the updated LGAs to return in the response
+            $lgas = Wards::where('cityId', $request->cityId)->get();
+            return response()->json(['message' => 'LGAs updated successfully', 'lgas' => $lgas]);
+        } else {
+            return response()->json(['error' => 'No matching LGAs found for the specified cityId'], 404);
+        }
+    } catch (\Exception $e) {
+        return response()->json(['error' => $e->getMessage()], 500);
+    }
+});
